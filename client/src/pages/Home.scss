@@ -1,0 +1,27 @@
+.routes_and_searchfield_container {
+    margin-top: 20vh;
+
+    .routes_container {
+        display: flex;
+        justify-content: space-around;
+        margin: 20px;
+
+        a {
+            text-decoration: none;
+        }
+
+        h2 {
+            text-align: center;
+            border: 1px solid gray;
+            padding: 10px;
+            border-radius: 6px;
+            display: i;
+            color: white;
+            font-size: 32;
+            width: 180px;
+            margin: 0 4px 20px;
+        }
+    }
+
+
+}
