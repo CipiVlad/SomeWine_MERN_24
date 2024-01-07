@@ -16,8 +16,8 @@ p {
         color: white;
         text-align: center;
         font-size: 24px;
-        border: 1px solid black 0.5;
-        border-radius: 6px;
+        border: 1px solid white;
+        border-radius: 16px;
         background: none;
         padding: 10px;
         width: 390px;
@@ -31,6 +31,7 @@ p {
         justify-content: space-evenly;
 
         p {
+            font-size: 24px;
             color: white;
         }
     }

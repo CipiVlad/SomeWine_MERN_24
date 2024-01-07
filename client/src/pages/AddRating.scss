@@ -1,0 +1,49 @@
+.add_box {
+    margin: 2vh;
+    background-color: #434152;
+    border: 1px solid #434152;
+    border-radius: 16px;
+    width: auto;
+    height: 200px;
+
+    h2 {
+        margin-top: 8vh;
+        text-align: center;
+    }
+
+
+
+
+}
+
+label {
+    display: block;
+    font-size: 24px;
+    color: white;
+    margin: 2vh;
+}
+
+input {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    border: 1px solid white;
+    border-radius: 16px;
+    background: none;
+    padding: 10px;
+    width: 390px;
+}
+
+button {
+    display: block;
+    margin-top: 2vh;
+    color: white;
+    background-color: #434152;
+    text-align: center;
+    font-size: 24px;
+    border: 1px solid white;
+    border-radius: 16px;
+    padding: 10px;
+    width: 200px;
+    margin: 2vh auto;
+}

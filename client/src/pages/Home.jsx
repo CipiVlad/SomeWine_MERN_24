@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom'
 import NavBar from '../components/NavBar'
 import './Home.scss'
+import AddButton from '../components/AddButton'
 
 
 const Home = () => {
@@ -37,7 +38,9 @@ const Home = () => {
                     <Link to={}></Link>
                 </div>
                  */}
+
             </div>
+            <AddButton />
         </div>
     )
 }
